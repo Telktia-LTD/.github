@@ -1,70 +1,70 @@
-# 👋 Welcome to Telktia Ltd
+# 👋 Welcome to LongSwipe Ltd
 
 ## 🚀 Who We Are
 
-**Telktia Ltd** is a forward-thinking **Software & Blockchain Development Agency** built for the future.  
-We help startups, enterprises, and visionaries bring bold ideas to life through world-class digital solutions.
+**LongSwipe Ltd** is reimagining cross-border value transfer with stablecoins.  
+We’re building a **voucher-based, chain-agnostic protocol** that enables frictionless remittance, gifting, and payouts—no wallet or gas fees required.
 
-Whether it's building **scalable software systems**, crafting **decentralized applications**, or exploring the **frontiers of Web3**,  
-Telktia delivers with purpose, precision, and passion.
+Our mission is simple: **make sending digital value as easy as sending a message**, for anyone, anywhere.
 
 ---
 
 ## 🛠️ What We Do
 
-- 🔗 **Blockchain Development**  
-  Smart Contracts, DApps, NFTs, Real-World Asset Tokenization, DeFi, Wallet Infrastructure & more.
+- 💸 **Voucher Protocol**  
+  Create, share, and redeem stablecoin vouchers globally, without needing the recipient to hold a crypto wallet.
 
-- 💻 **Custom Software Solutions**  
-  From backend systems to full-stack apps using **Go**, **Python**, **Flutter**, **React**, **Next.js**, and more.
+- 🔗 **Chain-Agnostic & Gasless**  
+  Operates across **Ethereum, Solana, Base, Linea**, and other leading chains—removing the complexity of network fees and wallet setup.
 
-- 🧠 **Tech Consulting & R&D**  
-  Architecture design, MVP launches, security audits, and staying ahead of industry trends.
+- 🌍 **Built for Global Use**  
+  From diaspora remittances to community aid and gifting, LongSwipe is designed for real-world adoption in emerging and connected markets.
 
-- 🌍 **Chain-Agnostic Development**  
-  We build for **Ethereum, Solana, Base, Linea, Polygon**, and any chain with serious potential.
+- 🔐 **Compliance-Ready Infrastructure**  
+  Optional KYC, transaction limits, and smart contract controls ensure security and regulatory alignment from day one.
 
 ---
 
 ## 🌈 How to Collaborate
 
-We believe in **community and contribution**.  
-If you're a dev, designer, researcher, or just curious, here's how you can vibe with us:
+We're building in the open and love good vibes.  
+If you're a developer, integrator, or fintech innovator, here’s how to join us:
 
-1. Fork our repos and build something cool 🔧  
-2. Report bugs and suggest features 💬  
-3. Join our dev alliance or partner with us 🤝
+1. Fork the repo, try our APIs, or build integrations 🔧  
+2. Submit feedback or feature ideas 💬  
+3. Partner with us or explore dev alliances 🤝
 
-For collabs, email us at: `admin@telktia.com`
+For collabs, email us at: `admin@longswipe.com`
 
 ---
 
 ## 📚 Resources & Docs
 
-- Official Website → [www.telktia.com](https://www.telktia.com)
-- API Docs → _Coming soon!_
-- Case Studies → _In progress. DM us to feature your build!_
+- Official Website → [www.longswipe.com](https://www.longswipe.com)  
+- API Docs → _Coming soon_  
+- Demo Vouchers → _Try on the site_  
+- Use Cases → _Remittance, Gifting, Payouts, Microfinance_
 
 ---
 
 ## 🎉 Fun Facts
 
-- Our team believes coffee is a variable, but **execution is constant** ☕🚀  
-- We’ve shipped products in over **5 countries**  
-- We love memes almost as much as we love clean architecture 😎
+- We believe in less jargon, more impact 💥  
+- Already powering value transfers for 300+ early users  
+- Born global, building from Lagos to London 🌍  
+- Yes, we use coffee and memes as part of our CI/CD ☕😎
 
 ---
 
 ## 💬 Let’s Connect
 
-Follow us for updates, open-source drops, and random tech wisdom:
+Follow us for updates, open-source drops, and the future of frictionless finance:
 
-- LinkedIn: [Telktia Ltd](https://www.linkedin.com/company/telktia-ltd)
-
----
-
-> “We don’t just build software. We build **what’s next.**”  
-> — Team Telktia
+- LinkedIn: [LongSwipe Ltd](https://www.linkedin.com/company/longswipe)  
+- Twitter/X: [@longswipeHQ](https://twitter.com/longswipeHQ)  
+- Email: `admin@longswipe.com`
 
 ---
 
+> “We’re not just sending money. We’re sending possibilities.”  
+> — Team LongSwipe
