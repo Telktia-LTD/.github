@@ -61,7 +61,7 @@ For collabs, email us at: `admin@longswipe.com`
 Follow us for updates, open-source drops, and the future of frictionless finance:
 
 - LinkedIn: [LongSwipe Ltd](https://www.linkedin.com/company/longswipe)  
-- Twitter/X: [@longswipeHQ](https://twitter.com/longswipeHQ)  
+- Twitter/X: [@longswipe25](https://twitter.com/longswipe25)  
 - Email: `admin@longswipe.com`
 
 ---
