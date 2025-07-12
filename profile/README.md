@@ -1,4 +1,4 @@
-# 👋 Welcome to LongSwipe Ltd
+# 👋 Welcome to LongSwipe, Powered by Telktia LTD
 
 ## 🚀 Who We Are
 
