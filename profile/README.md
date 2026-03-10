@@ -2,7 +2,7 @@
 
 ## 🚀 Who We Are
 
-**LongSwipe Ltd** is reimagining cross-border value transfer with stablecoins.  
+**LongSwipe** is reimagining cross-border value transfer with stablecoins.  
 We’re building a **voucher-based, chain-agnostic protocol** that enables frictionless remittance, gifting, and payouts—no wallet or gas fees required.
 
 Our mission is simple: **make sending digital value as easy as sending a message**, for anyone, anywhere.
